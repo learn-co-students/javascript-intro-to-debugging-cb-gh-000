@@ -24,7 +24,7 @@ Well, that's not very exciting. Let's make sure we can get these tests to pass!
 
 ### Solving the first test
 
-We're just getting started, so we expected that all our tests would fail. Let's go ahead and tackle the first test. The first error we see from Mocha is `ReferenceError: sayHey is not defined`. So let's go ahead and define that function in `index.js`.
+We're just getting star ted, so we expected that all our tests would fail. Let's go ahead and tackle the first test. The first error we see from Mocha is `ReferenceError: sayHey is not defined`. So let's go ahead and define that function in `index.js`.
 
 ```js
 function sayHey() {
